@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "389878352237",
+    "firebase_url": "https://imagesonair-a3962.firebaseio.com",
+    "project_id": "imagesonair-a3962",
+    "storage_bucket": "imagesonair-a3962.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389878352237:android:fd846ea6131ae21f",
+        "android_client_info": {
+          "package_name": "com.example.imagesonair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389878352237-fenk6i3aev3kmoqg223hrd6eibu3hgnk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imagesonair",
+            "certificate_hash": "18ffe8418017cedcc7c6bcb1f81cd89ade3b4eed"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApDquqacunXdt5mwKAtQ2lrn3OIAA5uFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389878352237-9svcqot7uo7uuuifek1ecumq5phqvdi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
